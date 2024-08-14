@@ -4,7 +4,7 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@MapperScan("com.uu.lease.web.*.mapper")    // p87
+// @MapperScan("com.uu.lease.web.*.mapper")    // p87
 public class MybatisPlusConfiguration {
 
 }

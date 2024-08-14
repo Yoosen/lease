@@ -18,6 +18,18 @@
     </properties>
 
     <dependencies>
+        <!--<dependency>-->
+        <!--    <groupId>com.uu</groupId>-->
+        <!--    <artifactId>web-admin</artifactId>-->
+        <!--    <version>1.0-SNAPSHOT</version>-->
+        <!--</dependency>-->
+
+        <!--<dependency>-->
+        <!--    <groupId>com.uu</groupId>-->
+        <!--    <artifactId>web-app</artifactId>-->
+        <!--    <version>1.0-SNAPSHOT</version>-->
+        <!--</dependency>-->
+
         <!--mybatis-plus-->
         <dependency>
             <groupId>com.baomidou</groupId>
@@ -28,6 +40,11 @@
         <dependency>
             <groupId>com.mysql</groupId>
             <artifactId>mysql-connector-j</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
         </dependency>
     </dependencies>
 
